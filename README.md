@@ -10,6 +10,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0031-next-permutation) |
+| [0896-monotonic-array](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
 | ------- |
