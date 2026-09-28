@@ -11,6 +11,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0031-next-permutation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0283-move-zeroes) |
 | [0896-monotonic-array](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0896-monotonic-array) |
 ## Two Pointers
 |  |
@@ -18,6 +19,7 @@
 | [0031-next-permutation](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/sinhaaditya-dev/DSA_series/tree/master/0283-move-zeroes) |
 ## Graph Theory
 |  |
 | ------- |
